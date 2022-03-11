@@ -1,7 +1,7 @@
 # Verkefni 1
 # Irure veniam deserunt excepteur
 
-Eu excepteur id pariatur velit
+1. [Eu excepteur id pariatur velit](#eu-excepteur
 Ex est eiusmod quis in tempor
 Nulla consequat in duis quis
 Ad esse sit nostrud est sit sunt
@@ -25,7 +25,7 @@ Incididunt commodo aliqua et Lorem veniam velit velit ullamco eiusmod do pariatu
 ## Ad esse sit nostrud est sit sunt
 
 |Miðja | Vinstri | Hægri|
-|------|---------|------|
+|:------:|:---------|------:|
 |   12 |    34   |  56  |  
 |tempor|    et   |fugiat|
 
@@ -49,24 +49,24 @@ void setup() {
 ```
 ## Commodo occaecat
 
-Incididunt
-laborum
-mollit
-cupidatat
-laboris
-anim
+1. Incididunt
+2. laborum
+    1. mollit
+    2. cupidatat
+3. laboris
+4. anim
 
 Velit sit sunt incididunt ipsum eiusmod id ipsum deserunt sint non enim.
 
-deserunt
-sit
-aliqua
-eiusmod
-irure
-aliquip
+* deserunt
+ - sit
+ - aliqua
+    - eiusmod
+ - irure
+* aliquip
 
 ## Occaecat amet labore
 
 ![Slóð á mynd:](https://tskoli.is/wp-content/uploads/2019/06/skolavorduholt-595x440.jpg)
 
-Video id: HUBNt18RFbo
+[![](https://img.youtube.com/vi/HUBNt18RFbo/0.jpg)](https://www.youtube.com/watch?v=HUBNt18RFbo)
